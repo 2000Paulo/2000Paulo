@@ -3,7 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulovictormsf/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ferreira-aa298921b)
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg )](https://2000paulo.github.io/My-Repository/index.html)
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg )](https://2000paulo.github.io/my-rep/)
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=2000Paulo&show_icons=true&theme=midnight-purple)
 
