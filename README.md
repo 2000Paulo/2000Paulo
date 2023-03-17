@@ -1,4 +1,4 @@
-### 🙋 Hellow my name is Paulo victor melo...
+### 🙋 Hello nice to meet you, My name is Paulo victor melo...
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulovictormsf/)
@@ -7,7 +7,7 @@
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=2000Paulo&show_icons=true&theme=midnight-purple)
 
-### Technologies I use...
+### These are the technologies I use!...
 <br>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
