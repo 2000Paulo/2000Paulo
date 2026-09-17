@@ -1,73 +1,83 @@
-# 👋 Olá, seja bem-vindo(a) ao meu GitHub!
-
-## 👨‍💻 Sobre Mim
-
-Sou **Paulo Victor Melo**, desenvolvedor apaixonado por tecnologia, qualidade de software e soluções que fazem a diferença. Tenho experiência com back-end, front-end, bancos de dados e automação de testes. Estou sempre em busca de novos aprendizados e desafios que ampliem minhas habilidades e tragam valor real aos projetos.
-
-📍 *Maricá - RJ, Brasil*
-
-🎯 *Foco atual: Qualidade de Software | Testes Automatizados | Full-Stack Development*
+<div align="center">
+  <h1>Olá, eu sou o Paulo Victor Melo 👋</h1>
+  <p><strong>QA Analyst & Software Engineer | SDET Focus</strong></p>
+  <p>
+    <a href="https://www.linkedin.com/in/paulo-ferreira-aa298921b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:pvmelo02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://img.shields.io/badge/Localização-Maricá%2C%20RJ-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização" />
+  </p>
+</div>
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+### 👨‍💻 Sobre Mim
 
-### 💻 Linguagens & Frameworks
+Engenheiro de Software e Analista de Quality Assurance com foco em **automação de testes (E2E e APIs)**, **pipelines de CI/CD** e **prevenção ativa de regressões em ambientes críticos**. 
 
+Uno a mentalidade rigorosa de QA com a base técnica de desenvolvimento de software: domino análise de código-fonte, arquitetura back-end (Python, PHP, Node.js) e criação de scripts de testes resilientes integrados diretamente aos ciclos de release.
+
+* 🎯 **Foco Atual:** Automação com Cypress/Selenium/Playwright, Quality Gates em CI/CD e testes de integração de APIs.
+* 🛠️ **Abordagem de Trabalho:** Shift-Left Testing (testar cedo para baratear o custo do bug), automação inteligente e cobertura de fluxos críticos de negócio.
+
+---
+
+### 🎯 O que entrego para os times de engenharia
+
+* **Prevenção Ativa de Bugs:** Estruturação de suítes de testes automatizados para evitar incidentes em produção e eliminar retrabalho da squad.
+* **Automação E2E e Integração:** Cobertura de ponta a ponta dos fluxos centrais da aplicação com frameworks modernos (Cypress, Selenium).
+* **Quality Gates em CI/CD:** Automação de testes disparada a cada Pull Request via GitHub Actions / GitLab CI, liberando deploys mais rápidos e sem medo de quebras.
+* **Comunicação Fluida com Devs:** Por entender a arquitetura do código (MVC, REST APIs, bancos relacionais), consigo diagnosticar a causa-raiz dos problemas e sugerir correções técnicas precisas.
+
+---
+
+### 🚀 Stack Tecnológica
+
+#### 🧪 Testes & Automação de Qualidade (Foco Principal)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+#### 💻 Linguagens & Frameworks de Desenvolvimento
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗃️ Bancos de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+#### 🗄️ Bancos de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
-### ✅ Testes & Qualidade
-
-![Cypress](https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)
-
-### 🔧 Ferramentas e Plataformas
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
-
-### 💡 Outras Competências
-
+#### ⚙️ DevOps, Versionamento & Ferramentas
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Jira / Gestão](https://img.shields.io/badge/Gestão_Ágil-Trello_%7C_Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-## 📂 Projetos em Destaque
+### 📂 Casos Práticos & Repositórios em Destaque
 
-🚧 Em construção... *(em breve adicionarei links para repositórios com meus projetos mais relevantes)*
+| Projeto | Descrição | Foco / Stack |
+| :--- | :--- | :--- |
+| 🧪 **Suíte E2E de Testes Automatizados** | Automação de testes para fluxos críticos de autenticação e checkout com geração de relatórios detalhados. | `Cypress` `JavaScript` `CI/CD` |
+| 🔌 **API Automation Framework** | Framework de testes de integração e contrato para endpoints RESTful, validando payloads e tempos de resposta. | `Python` `PyTest` `Postman` |
+| ⚙️ **Quality Gate Pipeline** | Exemplo de esteira automatizada executando linting e testes em cada Pull Request antes do merge. | `GitHub Actions` `Docker` |
 
----
-
-## 🌐 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ferreira-aa298921b)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulovictormsf/)
-
-📧 **E-mail principal:** [paaulomsf@gmail.com](mailto:paaulomsf@gmail.com)  
-📧 **E-mail alternativo:** [paulomsff@gmail.com](mailto:paulomsff@gmail.com)
+*(Atualize os links acima diretamente para os seus repositórios no GitHub)*
 
 ---
 
-✨ Obrigado por visitar meu perfil! Se você quiser colaborar ou apenas trocar ideias, sinta-se à vontade para me chamar!
+### 📬 Vamos conversar?
+
+Estou aberto a novos desafios profissionais em **QA Automation, SDET e Engenharia de Software**.
+
+* 💼 **LinkedIn:** [linkedin.com/in/paulo-ferreira-aa298921b](https://www.linkedin.com/in/paulo-ferreira-aa298921b)
+* ✉️ **E-mail:** [pvmelo02@gmail.com](mailto:pvmelo02@gmail.com)
+* 🌐 **Portfólio:** *Disponibilizado via link na bio*
