@@ -78,6 +78,6 @@ Uno a mentalidade rigorosa de QA com a base técnica de desenvolvimento de softw
 
 Estou aberto a novos desafios profissionais em **QA Automation, SDET e Engenharia de Software**.
 
-* 💼 **LinkedIn:** [linkedin.com/in/paulo-ferreira-aa298921b](https://www.linkedin.com/in/paulo-ferreira-aa298921b)
+* 💼 **LinkedIn:** [linkedin.com/in/paulovictormelo-of-quality](https://www.linkedin.com/in/paulovictormelo-of-quality/)
 * ✉️ **E-mail:** [pvmelo02@gmail.com](mailto:pvmelo02@gmail.com)
-* 🌐 **Portfólio:** *Disponibilizado via link na bio*
+* 🌐 **Portfólio:** [paulovictormelo.com.br](https://paulovictormelo.com.br)
